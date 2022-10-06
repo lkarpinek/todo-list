@@ -1,4 +1,5 @@
-# Lista zadań do wykonania
-Prosta aplikacja do zarządzania codziennymi zadaniami
-## Właściwości
-* Lista codziennych zadań
+# TODO list
+A simple app to manage your daily tasks.
+It uses HTML5 and CSS3.
+## Features
+* List of daily tasks
